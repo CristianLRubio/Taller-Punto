@@ -12,3 +12,5 @@ elbicho.x=9
 elbicho.y=9
 
 a=messi.calcular_distancia(elbicho)
+
+print(a)
